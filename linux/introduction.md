@@ -77,6 +77,51 @@
 
 
 
+#### Linux启动过程
+
+1. BIOS自检
+   * 上电自检POST
+   * 执行一段小程序用来枚举本地设备对其初始化
+2. 内核引导
+3. 执行init程序进行系统初始化
+4. init启动mingetty，打开shell终端供用户登录进入系统
+
+
+
+
+
+/etc/rc.d/init.d
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 * [参考学习手册](https://www.tutorialspoint.com/unix/unix-getting-started.htm)

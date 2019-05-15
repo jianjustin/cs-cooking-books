@@ -14,7 +14,13 @@
 
 * 软件工程基础
 
+* 计算机网络
+  * [导论](/network/introduction.md)
+
 * 微机原理
+
+* 数据库原理
+  * [导论](/database/introduction.md)
 
 * 小说故事
 

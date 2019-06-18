@@ -1,9 +1,6 @@
 * [首页](/)
 
-  
-
 * 数学建模
-
   * [导论](/mathworks/introduction.md)
   * [数据建模方法](/mathworks/data-modeling.md)
 
@@ -21,7 +18,17 @@
 
 * 数据库原理
   * [导论](/database/introduction.md)
+  * [SQL基本操作](./database-sql.md)
+  * [视图管理](./database-view.md)
+  * [数据库函数]()
+  * [存储过程](./database-stored-procedure.md)
+  * [触发器](./database-trigger.md)
+  * [数据库安全](./database-security.md)
+  * [数据库事务机制]()
 
 * 小说故事
 
 * 杂项
+  * [大三安排](/others/collage-plan.md)
+
+* 面试

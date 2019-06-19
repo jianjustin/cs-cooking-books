@@ -1,3 +1,5 @@
+# 数据库文档 - SQL
+
 ## 结构化查询语言
 
 SQL语言主要包括：
@@ -98,6 +100,48 @@ SQL语言主要包括：
   ```
 
 * 连接查询
+
+  * 等值连接（内连接）
+
+    ```sql
+    SELECT * from Table_A A JOIN Table_B B ON A.id = B.id;
+    ```
+
+  * 不等连接（内连接）
+
+  * ```sql
+    SELECT * from Table_A A JOIN Table_B B ON A.id < B.id; 
+    ```
+
+  * 自然连接（内连接）
+
+  * ```sql
+    SELECT * from Table_A NATURAL JOIN Table_B ; 
+    ```
+
+  * 交叉连接（内连接）
+
+  * ```sql
+    SELECT * from Table_A CROSS JOIN Table_B;
+    ```
+
+  * 左外连接
+
+    ```sql
+    SELECT * from Table_A A LEFT JOIN Table_B B ON A.id = B.id;
+    ```
+
+  * 右外连接
+
+    ```sql
+    SELECT * from Table_A A RIGHT JOIN Table_B B ON A.id=B.id;
+    ```
+
+  * 全连接
+
+    ```sql
+    SELECT * from Table_A A FULL JOIN Table_B B ON A.id=B.id;
+    ```
 
 * 视图
 

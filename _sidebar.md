@@ -18,11 +18,11 @@
 
 * 数据库原理
   * [导论](/database/introduction.md)
-  * [SQL基本操作](./database-sql.md)
-  * [视图管理](./database-view.md)
-  * [存储过程](./database-stored-procedure.md)
-  * [触发器](./database-trigger.md)
-  * [数据库安全](./database-security.md)
+  * [SQL基本操作](/database/database-sql.md)
+  * [视图管理](/database/database-view.md)
+  * [存储过程](/database/database-stored-procedure.md)
+  * [触发器](/database/database-trigger.md)
+  * [数据库安全](/database/database-security.md)
 
 * 小说故事
 

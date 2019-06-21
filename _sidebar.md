@@ -2,6 +2,8 @@
 
 * 数学建模
   * [导论](/mathworks/introduction.md)
+  * [Matlab基础语法](/mathworks/matlab-basic.md)
+  * [Matlab数学运算](/mathworks/matlab-math.md)
   * [数据建模方法](/mathworks/data-modeling.md)
 
 ​* 算法

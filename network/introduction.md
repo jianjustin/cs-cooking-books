@@ -18,8 +18,8 @@
 ## 课程目录
 
 * ISO/OSI模型和TCP/IP模型
-* 物理层
-* 数据链路层
+* [物理层](./physical-layer.md)
+* [数据链路层](./data-link-layer.md)
 * [网络层](./network-layer.md)
 * [传输层](./transport-layer.md)
 * [应用层](./application-layer.md)

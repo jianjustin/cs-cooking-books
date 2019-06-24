@@ -7,17 +7,17 @@
   * [Matlab数学运算](/mathworks/matlab-math.md)
   * [数据建模方法](/mathworks/data-modeling.md)
 * Linux基础知识
-  * [Linux基础概念](./basic-linux.md)
-  * [Linux基础命令](./basic-command.md)
-  * [嵌入式Linux系统](./basic-embeded-linux.md)
+  * [Linux基础概念](/linux/basic-linux.md)
+  * [Linux基础命令](/linux/basic-command.md)
+  * [嵌入式Linux系统](/linux/basic-embeded-linux.md)
 * 软件工程基础
 * 计算机网络
   * [导论](/network/introduction.md)
-* [物理层](./physical-layer.md)
-  * [数据链路层](./data-link-layer.md)
-  * [网络层](./network-layer.md)
-  * [传输层](./transport-layer.md)
-  * [应用层](./application-layer.md)
+* [物理层](/network/physical-layer.md)
+  * [数据链路层](/network/data-link-layer.md)
+  * [网络层](/network/network-layer.md)
+  * [传输层](/network/transport-layer.md)
+  * [应用层](/network/application-layer.md)
 * 微机原理
 * 数据库原理
   * [导论](/database/introduction.md)

@@ -13,7 +13,7 @@
 * 软件工程基础
 * 计算机网络
   * [导论](/network/introduction.md)
-* [物理层](/network/physical-layer.md)
+  * [物理层](/network/physical-layer.md)
   * [数据链路层](/network/data-link-layer.md)
   * [网络层](/network/network-layer.md)
   * [传输层](/network/transport-layer.md)
